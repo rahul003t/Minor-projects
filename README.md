@@ -1,0 +1,3 @@
+# Minor-projects
+
+...> In this reposetory I am uploaded basic HTML, CSS ,JavaScript projects <.....
